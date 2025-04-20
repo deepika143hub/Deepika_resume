@@ -6,7 +6,7 @@ Welcome! This repository contains the most up-to-date version of my resume.
 
 You can view or download my resume using the link below:
 
-👉 [Download Resume (PDF)](https://github.com/deepika143hub/deepika-resume/raw/main/Resume_DeepikaSingh.pdf)
+👉 [Download Resume (PDF)](https://github.com/deepika143hub/Deepika_resume)
 
 ---
 
